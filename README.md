@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atharva-D
 - 👀 I’m interested in Machine Learning, Data Science and Internet of Things
-- 🌱 I’m currently pursuing Elecronics and Telecommunication Engineering
+- 🌱 I’m currently pursuing Electronics and Telecommunication Engineering
 - 💞️ I’m looking to collaborate on various projects related to my topics of interest
 - 📫 You can reach me at atharvadusane13@gmail.com
 
